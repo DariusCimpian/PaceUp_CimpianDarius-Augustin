@@ -1,0 +1,6 @@
+@PaceUpServer_HostAddress = http://localhost:5220
+
+GET {{PaceUpServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
